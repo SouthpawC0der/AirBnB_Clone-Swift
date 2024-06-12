@@ -228,5 +228,5 @@ struct DetailView: View {
 }
 
 #Preview {
-    DetailView(listing: DeveloperPreview.shared.listings[2])
+    DetailView(listing: DeveloperPreview.shared.listings[3])
 }
